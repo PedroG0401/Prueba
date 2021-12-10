@@ -1,0 +1,57 @@
+Clasificación de Clientes de Aerolíneas en base a su satisfacción con el servicio brindado
+
+Que variable es la más ponderada por los clientes que consumen este servicio?
+Existe una relación entre el programa de lealtad y la satisfacción?
+Existe una relación entre la Clase del vuelo y la satisfacción?
+Que valora más el cliente, tiempos de espera en despegue y arribo o servicio a bordo?
+Influye la distancia del vuelo en la clase elegida para volar?
+Existen una correlación entre la edad y sexo de los pasajeros y la satisfacción por el servicio brindado?
+Que variables tiene mayor correlación entre si? Son lógicas?
+
+Equipo: -Aldana Ruscitti
+        -Alejandra Diaz
+        -Pedro Garcia
+        -Ricardo Bautista
+        -Ruben Bonive
+        -Silvina Lorena Herrera
+        
+Dataset: (agregar link)?
+
+Data Wrangling y EDA: (agregar jupyter)?
+
+Análisis de Componentes principales; no entiendo que se refiere
+
+Contar la historia de sus datos: Dataset que contiene una encuesta de satisfacción sobre el servicio brindado por una aerolínea
+
+Variables:
+          Gender: Gender of the passengers (Female, Male)
+          Customer Type: The customer type (Loyal customer, disloyal customer)
+          Age: The actual age of the passengers
+          Type of Travel: Purpose of the flight of the passengers (Personal Travel, Business Travel)
+          Class: Travel class in the plane of the passengers (Business, Eco, Eco Plus)
+          Flight distance: The flight distance of this journey
+          Inflight wifi service: Satisfaction level of the inflight wifi service (0:Not Applicable;1-5)
+          Departure/Arrival time convenient: Satisfaction level of Departure/Arrival time convenient
+          Ease of Online booking: Satisfaction level of online booking
+          Gate location: Satisfaction level of Gate location
+          Food and drink: Satisfaction level of Food and drink
+          Online boarding: Satisfaction level of online boarding
+          Seat comfort: Satisfaction level of Seat comfort
+          Inflight entertainment: Satisfaction level of inflight entertainment
+          On-board service: Satisfaction level of On-board service
+          Leg room service: Satisfaction level of Leg room service
+          Baggage handling: Satisfaction level of baggage handling
+          Check-in service: Satisfaction level of Check-in service
+          Inflight service: Satisfaction level of inflight service
+          Cleanliness: Satisfaction level of Cleanliness
+          Departure Delay in Minutes: Minutes delayed when departure
+          Arrival Delay in Minutes: Minutes delayed when Arrival
+          Satisfaction: Airline satisfaction level(Satisfaction, neutral or dissatisfaction)
+
+Especificar Distribuciones y relaciones (supongo que este punto va dentro del jupyter)
+
+Data set final para analizar (acá estimo que debemos agregar el dataset ya limpio)
+  Yo lo único que hice fue convertir la columna satisfacción a 0 y 1 y pasarlo a int
+  
+Plantear objetivos para los datos: ???????
+
